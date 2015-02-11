@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: API-Phalcon\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Diego Luis Restrepo <diegoluisr@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_CO\n"
+"X-Generator: Poedit 1.6.9\n"
+
+msgid "This resource requires authorized access"
+msgstr "Este recurso requiere de acceso autorizado"
+
+msgid "Unauthorized - Check route for mispellings"
+msgstr "No Autorizado - Mire la definicion de la ruta"
+
+msgid "The field %field% must be unique"
+msgstr "El campo %field% debe ser único"
+
+msgid "The field %field% must be a integer"
+msgstr "El campo %field% debe ser entero"
+
+msgid "The field %field% must be a valid email"
+msgstr "El campo %field% debe ser un email válido"
+
+msgid "The field %field% must be Y-m-d H:i:s format"
+msgstr "El campo %field% debe tener el formato Y-m-d H:i:s"

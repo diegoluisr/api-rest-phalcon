@@ -1,2 +1,4 @@
 /cache/
 /config/development/
+/tmp/data/acl.data
+/tmp/logs/debug.log
